@@ -30,3 +30,5 @@ We start creating the main file template, the Flutter Page. Subsequently, we con
 
 ### Conclusion
 In the dynamic landscape of Flutter development, adopting efficient practices is paramount to success. By harnessing the power of IntelliJ IDEA’s custom file templates, developers can streamline the implementation of BLoC architecture in Flutter projects. Through automation and standardization, custom templates empower developers to focus on delivering high-quality features while maintaining code consistency and reliability. As Flutter continues to evolve, integrating custom templates into the development workflow will remain a valuable asset for optimizing productivity and code maintainability.
+
+➡ You can find my article on Medium [here](https://medium.com/@ooosv/streamlining-bloc-architecture-in-flutter-b7df85d6a8dc).
